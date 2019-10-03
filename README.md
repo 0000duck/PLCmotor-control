@@ -1,2 +1,2 @@
 # PLCmotor-control
-PLC控步進馬達11
+PLC控步進馬達
