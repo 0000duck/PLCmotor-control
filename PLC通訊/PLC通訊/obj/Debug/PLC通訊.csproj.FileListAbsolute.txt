@@ -1,0 +1,10 @@
+C:\Users\0564\Documents\Visual Studio 2008\Projects\PLC通訊\PLC通訊\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\0564\Documents\Visual Studio 2008\Projects\PLC通訊\PLC通訊\obj\Debug\PLC通訊.Form1.resources
+C:\Users\0564\Documents\Visual Studio 2008\Projects\PLC通訊\PLC通訊\obj\Debug\PLC通訊.Properties.Resources.resources
+C:\Users\0564\Documents\Visual Studio 2008\Projects\PLC通訊\PLC通訊\obj\Debug\PLC通訊.csproj.GenerateResource.Cache
+C:\Users\0564\Documents\Visual Studio 2008\Projects\PLC通訊\PLC通訊\bin\Debug\Z軸控制.exe
+C:\Users\0564\Documents\Visual Studio 2008\Projects\PLC通訊\PLC通訊\bin\Debug\Z軸控制.pdb
+C:\Users\0564\Documents\Visual Studio 2008\Projects\PLC通訊\PLC通訊\obj\Debug\Z軸控制.exe
+C:\Users\0564\Documents\Visual Studio 2008\Projects\PLC通訊\PLC通訊\obj\Debug\Z軸控制.pdb
+S:\財順機械\程式\PLC通訊\PLC通訊\obj\Debug\Z軸控制.exe
+S:\財順機械\程式\PLC通訊\PLC通訊\obj\Debug\Z軸控制.pdb

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PLC通訊">
+</Property><Property Name="方案檔" Value="S:\財順機械\程式\PLC通訊\PLC通訊.sln">
+</Property><Property Name="使用者選項檔" Value="S:\財順機械\程式\PLC通訊\PLC通訊.suo">
+</Property><Property Name="Date" Value="2019年8月22日">
+</Property><Property Name="Time" Value="下午 14:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PLC通訊.sln" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PLC通訊.suo" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊.suo">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\PLC通訊.csproj" Description="專案檔已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊\PLC通訊.csproj">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\Form1.cs" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊\Form1.cs">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\Form1.Designer.cs" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\Program.cs" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊\Program.cs">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\Properties\Resources.Designer.cs" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\Properties\Settings.Designer.cs" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\Properties\Settings.settings" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\lobster_contour.ico" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊\lobster_contour.ico">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\Form1.resx" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊\Form1.resx">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\Properties\Resources.resx" Description="檔案已成功備份為 S:\財順機械\程式\PLC通訊\Backup\PLC通訊\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\PLC通訊.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="PLC通訊" Source="PLC通訊\PLC通訊.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PLC通訊.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="PLC通訊.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PLC通訊" Source="PLC通訊\PLC通訊.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>
